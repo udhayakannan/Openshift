@@ -7,7 +7,7 @@
 </HEAD>
 <BODY>
 
-<H1>Live Monitoring of Webpage</H1>
+<H1>Live Monitoring of Openshift JVM</H1>
 <img src="images/jvm-architecture.png">
 
 <h2>JVM Memory Monitor</h2>
